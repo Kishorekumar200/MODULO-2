@@ -1,23 +1,13 @@
-{
+const  h1 = document.querySelector("h1");
 
-var n1="hi"
+const button = documet.querySelector("button");
 
 
+//  button.addEventlistener("click" , function (){
+//      h1.innerText = "hello tis is yeshuu";
+// });
 
-console.log(n1)
 
-}
-
-function n2(n)
-{
-    return n*10;
-}
-console.log(n2(400))      
-console.log(n1)
-
-function num()
-{
-   const  name1="lives";
-}
-num()
-console.log(name1)
+// // setInterval 
+// //     h1.innerText ='hello this is yeshuu ${math.floor(math.random()*99)}';
+// // },1000);

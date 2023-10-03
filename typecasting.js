@@ -1,10 +1,16 @@
-var contact="9898298";
-var convertedContact =+contact;
+var contact ="969589449";
 
-var rollNumber ="234ASD";
-console.log(+rollNumber);
+var converedcontact = +contact;
 
-var isLoggedIn =false;
-var convertedIsLoggedIn = isLoggedIn + "";
+var rollnumber ="234hfd";
+console.log( +rollnumber);
 
-console.log(typeof convertedIsLoggedIn);
+var isloggedin = false;
+var convertedloggedin = isloggedin + "";
+
+ console.log(typeof convertedisloggedin );
+
+console.log(typeof  convertedloggedin);
+console.log(typeof isloggedin);
+console.log(typeof contact);
+console.log(typeof converedcontact);
